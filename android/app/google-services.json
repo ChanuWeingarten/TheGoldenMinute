@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359997272319",
+    "project_id": "thegoldendminute",
+    "storage_bucket": "thegoldendminute.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359997272319:android:3237acdc262c10983f9cca",
+        "android_client_info": {
+          "package_name": "com.mydat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACDSMUE52lP2hJoc1_2saFCmKkW58F7Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
