@@ -10,7 +10,6 @@ messaging().setBackgroundMessageHandler(async remoteMessage => {
   Alert.alert('hi!!!', 'Message handled in the background!');
 
   // כאן תוכל להוסיף קוד לטיפול בהודעות רקע
-  // לדוגמה, שמירת ההודעה ב-Firestore או הצגת התראה מקומית
 });
 
 const App = () => {
